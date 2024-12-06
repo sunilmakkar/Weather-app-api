@@ -12,7 +12,7 @@ This simple Python application fetches weather data for a specified city using t
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/sunilmakkar/weather-app.git
+   git clone https://github.com/sunilmakkar/weather-app-api.git
    ```
 
 2. Install the required dependencies:
